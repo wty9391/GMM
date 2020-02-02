@@ -9,7 +9,7 @@ For any problems, please report the issues here.
 Before run the demo, please first check the GitHub project [make iPinYou data](https://github.com/wnzhang/make-ipinyou-data) for pre-processing the [iPinYou dataset](http://data.computational-advertising.org).
 Or you can download the processed dataset from this [link]().
 
-Then, you should create a folder named `dataset`, and put the dataset in it.
+Then, please create a folder named `dataset`, and put the dataset in it.
 The file tree looks like this:
 ```
 GMM
@@ -51,7 +51,6 @@ bash ./DLF
 ```
 You can find the running logs in these directories `/result/$advertiser/log/tanh_LT_LG`, `/result/$advertiser/log/CLR`,
 `/result/$advertiser/log/SM`, `/result/$advertiser/log/DCL` and `/result/$advertiser/log/DLF`.
-
 
 The code of DCL and DLF is forked from this [repository](https://github.com/rk2900/DLF).
 
