@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 advertisers="yoyi_sample"
 root="./dataset/make-yoyi-data/original-data"
 for advertiser in $advertisers; do
