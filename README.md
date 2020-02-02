@@ -40,7 +40,7 @@ bash ./CGMM.sh
 You can find the running logs in this directories `/result/$advertiser/log/GMM` and `/result/$advertiser/log/CGMM`
 
 
-### Run baselines
+### Run Baselines
 Please run the following code to train and evaluate the baselines
 ```bash
 bash ./tanh_LT_LG.sh
