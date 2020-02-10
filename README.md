@@ -7,7 +7,7 @@ For any problems, please report the issues here.
 
 ### Prepare Dataset
 Before run the demo, please first check the GitHub project [make iPinYou data](https://github.com/wnzhang/make-ipinyou-data) for pre-processing the [iPinYou dataset](http://data.computational-advertising.org).
-Or you can download the processed dataset from this [link]().
+Or you can download the processed dataset from this [link](https://pan.baidu.com/s/1bjeROrEuxouy9Mhfd1vrCw) with extracting code `h12c`.
 
 Then, please create a folder named `dataset`, and put the dataset in it.
 The file tree looks like this:
