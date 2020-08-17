@@ -46,8 +46,8 @@ Please run the following code to train and evaluate the baselines
 bash ./tanh_LT_LG.sh
 bash ./CLR.sh
 bash ./SM.sh
-bash ./DCL
-bash ./DLF
+bash ./DCL.sh
+bash ./DLF.sh
 ```
 You can find the running logs in these directories `/result/$advertiser/log/tanh_LT_LG`, `/result/$advertiser/log/CLR`,
 `/result/$advertiser/log/SM`, `/result/$advertiser/log/DCL` and `/result/$advertiser/log/DLF`.
