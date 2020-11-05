@@ -7,7 +7,7 @@ For any problems, please report the issues here.
 
 ### Prepare Dataset
 Before run the demo, please first check the GitHub project [make iPinYou data](https://github.com/wnzhang/make-ipinyou-data) for pre-processing the [iPinYou dataset](http://data.computational-advertising.org).
-Or you can download the processed dataset from this [link]().
+Or you can download the processed dataset from this [link](https://pan.baidu.com/s/1bjeROrEuxouy9Mhfd1vrCw) with extracting code `h12c`.
 
 Then, please create a folder named `dataset`, and put the dataset in it.
 The file tree looks like this:
@@ -46,8 +46,8 @@ Please run the following code to train and evaluate the baselines
 bash ./tanh_LT_LG.sh
 bash ./CLR.sh
 bash ./SM.sh
-bash ./DCL
-bash ./DLF
+bash ./DCL.sh
+bash ./DLF.sh
 ```
 You can find the running logs in these directories `/result/$advertiser/log/tanh_LT_LG`, `/result/$advertiser/log/CLR`,
 `/result/$advertiser/log/SM`, `/result/$advertiser/log/DCL` and `/result/$advertiser/log/DLF`.
