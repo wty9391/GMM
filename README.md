@@ -1,5 +1,5 @@
-# A Discriminative Gaussian Mixture Model to Fit Market Price Distribution for Demand-Side Platforms
-This is a repository of experiment code supporting [A Discriminative Gaussian Mixture Model to Fit Market Price Distribution for Demand-Side Platforms]().
+# A Multimodal Approach for Improving Market Price Estimation in Online Advertising
+This is a repository of experiment code supporting [A Multimodal Approach for Improving Market Price Estimation in Online Advertising]().
 
 For any problems, please report the issues here.
 
